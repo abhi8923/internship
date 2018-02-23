@@ -1,0 +1,23 @@
+ #bodyContainer
+      {
+        padding:40px;
+      }
+      
+      #nav
+      {
+        background-color:white;
+      }
+      
+      #nav-image
+      {
+        text-align:left;
+        width:60px; 
+      }
+      
+      #text-nav{
+        margin-left: 20px;
+      }
+      .card-img-top{
+        //height: 200px;
+        height: 150px;
+      }
